@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "email": "ali@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "email": "ali@example.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "email": "ali@example.com"
+    }
+  ]
+}
